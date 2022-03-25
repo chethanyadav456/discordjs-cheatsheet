@@ -1,3 +1,5 @@
+![Logo](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgiantmedia.com%2Fassets%2Fthecheatsheet.png&f=1&nofb=1)
+
 # discordjs-cheatsheet
 - Events
 - Shard Events
@@ -18,3 +20,10 @@
 - Partial Types 
 - COLOR Codes
 - and much more
+
+
+
+## Authors
+
+- [@katherinepeterson](https://www.github.com/octokatherine)
+
