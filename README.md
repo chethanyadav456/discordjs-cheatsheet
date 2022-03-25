@@ -25,5 +25,5 @@
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@chethanyadav456](https://www.github.com/chethanyadav456)
 
