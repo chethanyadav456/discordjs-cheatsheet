@@ -3,13 +3,6 @@
 //     listed here -> https://discord.js.org/#/docs/main/stable/class/Client
 //  Learn from this, do not just copy it mofo!
 //
-//  Saved to -> https://gist.github.com/koad/316b265a91d933fd1b62dddfcc3ff584
-
-
-            /*      
-                koad-was-here  
-                b25lIEdvZCwgb25lIGxvdmUu          
-                                            */
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
